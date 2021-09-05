@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+}
+.child1{
+    background-color: aqua;
+    position: relative;
+    height: 300px;
+}
+img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-left: 40%;
+    top: 6%;
+    border: 3px dotted yellow;
+}
+.child2{
+    background-color: blanchedalmond;
+    position: absolute;
+    top: 40px;
+    height: 80px;
+    left: 450px;
+    top: 250px;
+    padding: 10px;
+    font-size: 60px;
+}
+.child3{
+    background-color: white;
+    height: 30px;
+}
+.child4{
+    background-color: aqua;
+    height: 50px;
+}
+.nameaddress{
+    text-align: center;
+    padding: 10px;
+}
+.body{
+    border-left: 3px solid rgb(36, 35, 35);
+    height: 140%;
+    position: absolute;
+    left: 50%;
+    top: 75%;
+}
+.left_content{
+    margin-left: 8%;
+    margin-top: 5.3%;
+}
+.right_content{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.profile{
+    width: 30%;
+}
+.work_experience{
+    width: 40%;
+}
+.right_content{
+    border-left: -30px;
+
+}
+.work_experiences{
+    width: 70%;
+}
+.education{
+    width: 70%;
+}
+.profile_icon{
+    display: flex;
+    align-items: center;
+}
+.profile_icon h1{
+    padding-left: 10px;
+}
+.skills_icon{
+    display: flex;
+    align-items: center;
+}
+.skills_icon h1{
+    padding-left: 10px;
+}
+.i_work_experience{
+    display: flex;
+    align-items: center;
+}
+.i_work_experience h1{
+    padding-left: 10px;
+}
+.i_education{
+    display: flex;
+    align-items: center;
+}
+.i_education h1{
+    padding-left: 10px;
+}
+.javascript input {
+    position: absolute;
+    margin-left: 5%;
+    line-height: 2px;
+}
+.css input{
+    position: absolute;
+    margin-left: 7.6%;
+    line-height: 2px;
+}
+.html input{
+    position: absolute;
+    margin-left: 6.4%;
+    line-height: 2px;
+}
+.react input{
+    position: absolute;
+    margin-left: 7%;
+    line-height: 2px;
+}
+.redux input{
+    position: absolute;
+    margin-left: 6.7%;
+    line-height: 2px;
+}
+.mongo input{
+    position: absolute;
+    margin-left: 6.4%;
+}
+.deploy input{
+    position: absolute;
+    margin-left: 4%;
+}
+.pro_man input{
+    position: absolute;
+    margin-left: 6%;
+}
+.recuir input{
+    position: absolute;
+    margin-left: 10.2%;
+}
+.buss_devop input{
+    position: absolute;
+    margin-left:4.8%;
+}
+.editing input{
+    position: absolute;
+    margin-left: 12.2%;
+}
+.fund input{
+    position: absolute;
+    margin-left: 10%;
+}
+.date1{
+    position: absolute;
+    right: 10px;
+    bottom: 554px;
+}
+.date2{
+    position: absolute;
+    left: 530px;
+    bottom: -470px;
+}
+.date3{
+    position: absolute;
+    right: 30px;
+    top: 70px;
+}
